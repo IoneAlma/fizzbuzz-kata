@@ -1,5 +1,5 @@
 # fizzbuzz-kata
-=======
+
 # NodeJS Boilerplate for code katas
 
 ```
